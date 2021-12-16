@@ -240,7 +240,11 @@ var ClassList = []string{
 	`log4j-core-2.13.3.jar 2.13.3 956e09da org/apache/logging/log4j/core/lookup/JndiLookup.class`,
 	`log4j-core-2.13.3.jar 2.13.3 b546dadf org/apache/logging/log4j/core/net/JndiManager.class`,
 	`log4j-core-2.14.0.jar 2.14.0 29da1d9c org/apache/logging/log4j/core/net/JndiManager.class`,
+	`log4j-core-2.14.0.jar 2.14.0 23a35f29 org/apache/logging/log4j/core/lookup/JndiLookup.class`,
 	`log4j-core-2.14.1.jar 2.14.1 29da1d9c org/apache/logging/log4j/core/net/JndiManager.class`,
+	`log4j-core-2.14.1.jar 2.14.1 23a35f29 org/apache/logging/log4j/core/lookup/JndiLookup.class`,
+	`log4j-core-2.15.0.jar 2.15.0 23a35f29 org/apache/logging/log4j/core/lookup/JndiLookup.class`,
+	`log4j-core-2.15.0.jar 2.15.0 dc81b765 org/apache/logging/log4j/core/net/JndiManager.class`,
 	`log4j-core-2.1.jar 2.1 17a0cd9f org/apache/logging/log4j/core/lookup/JndiLookup.class`,
 	`log4j-core-2.1.jar 2.1 a01792f8 org/apache/logging/log4j/core/net/JndiManager.class`,
 	`log4j-core-2.2.jar 2.2 17a0cd9f org/apache/logging/log4j/core/lookup/JndiLookup.class`,
@@ -272,8 +276,3 @@ var ClassList = []string{
 	`log4j-core-2.9.1.jar 2.9.1 4b8d2ae5 org/apache/logging/log4j/core/lookup/JndiLookup.class`,
 	`log4j-core-2.9.1.jar 2.9.1 9393311a org/apache/logging/log4j/core/net/JndiManager.class`,
 }
-
-//`log4j-core-2.14.1.jar 2.14.1 23a35f29 org/apache/logging/log4j/core/lookup/JndiLookup.class`,
-//`log4j-core-2.14.0.jar 2.14.0 23a35f29 org/apache/logging/log4j/core/lookup/JndiLookup.class`,
-//`log4j-core-2.15.0.jar 2.15.0 23a35f29 org/apache/logging/log4j/core/lookup/JndiLookup.class`,
-//`log4j-core-2.15.0.jar 2.15.0 dc81b765 org/apache/logging/log4j/core/net/JndiManager.class`,
